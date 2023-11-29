@@ -19,26 +19,46 @@ Blocking Checks
 Medium checks
 
 [✓] update.zip sideload
+
  UI colors (red/blue inversions)
+ 
 [✓] Screen goes off and on
+
  F2FS/EXT4 Support, exFAT/NTFS where supported
+ 
 [✓] all important partitions listed in mount/backup lists
+
 [ ] backup/restore to/from external (USB-OTG) storage (not supported by the device)
+
 [✓] backup/restore to/from adb
+
 [✓] decrypt /data
- Correct date (Have to set manually everytime booted)
+
+ 
 Minor checks
 
 [✓] MTP export
-[✓] reboot to bootloader (Only works using terminal)
-[✓] reboot to recovery (Only works using terminal)
-[✓] poweroff (Only works using terminal)
+
+[✓] reboot to bootloader 
+
+[✓] reboot to recovery
+
+[✓] poweroff 
+
 [✓] battery level
+
 [✓] temperature
+
 [✓] encrypted backups
+
  input devices via USB (USB-OTG) - keyboard, mouse and disks (not supported by the device)
+ 
 [ ] USB mass storage export
+
 [✓] set brightness
+
 [✓] vibrate
+
 [✓] screenshot
+
 [✓] partition SD card
