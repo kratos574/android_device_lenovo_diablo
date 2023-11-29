@@ -5,11 +5,17 @@ TWRP Device tree for Lenovo Legion Y90 - requires sm84xx-common repo
 Blocking Checks
 
 [✓] Correct screen/recovery size
+
 [✓] Working Touch, screen
+
 [✓] Backup to internal/microSD
+
 [✓] Restore from internal/microSD
+
 [✓] reboot to system (Only works using terminal)
+
 [✓] ADB
+
 Medium checks
 
 [✓] update.zip sideload
